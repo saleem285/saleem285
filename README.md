@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saleem285
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Computer Science at the technion institute of technology
+- 🌱 I’m currently learning computer Science at the Technion Institute Of Technology
 - 📫 How to reach me : by email at saleem_285@hotmail.com
 
 <!---
